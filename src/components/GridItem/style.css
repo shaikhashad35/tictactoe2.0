@@ -1,0 +1,11 @@
+.grid-item {
+  height: 80px;
+  width: 80px;
+  border: 1px solid black;
+  background-color: grey !important;
+  padding: auto;
+  text-align: center;
+  margin: 5px;
+  font-size: 60px;
+  color: beige;
+}
